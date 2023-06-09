@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on AaronLau</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on AaronLau</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>自我介绍</title>
+      <link>/blog/2023-06-09-/</link>
+      <pubDate>Fri, 09 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2023-06-09-/</guid>
+      <description>我是AaronLau，来自地球一隅。出生二十线农村，喜欢琢磨事情，十四岁那年用五百块一台的电脑，自学C编程，从此走上了计算机的行业。 我不是大</description>
+    </item>
+    
+  </channel>
+</rss>
